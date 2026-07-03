@@ -2,7 +2,7 @@
 The original motive was to make a card that could function both as a NFC card and a Geological Scale Card. However, due to time constraints, the latter was abandoned.
 
 ## Schematic Diagram
-<img width="315" height="406" alt="image" src="https://github.com/user-attachments/assets/c1b04a3d-66e2-4c5a-9d74-21563c1afd68" />
+<img width="2362" height="1672" alt="SCH_Schematic1_1-P1_2026-07-03" src="https://github.com/user-attachments/assets/984722ec-ef0f-4abf-bf91-d081b34ccf31" />
 
 ## PCB Screenshot
 <img width="682" height="434" alt="image" src="https://github.com/user-attachments/assets/6b9c30f5-c16b-4f73-9e79-9d6a55be0ee4" />
